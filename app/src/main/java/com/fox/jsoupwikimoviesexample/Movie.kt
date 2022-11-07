@@ -11,7 +11,7 @@ class Movie {
     //var posterURL: String = ""
 
     override fun toString(): String {
-        return "Movie(title='$title')"
+        return "$title"
     }
 
 }
